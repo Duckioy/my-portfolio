@@ -1,12 +1,18 @@
 :root {
-  margin: 0px;
-  padding: 0px;
+  margin: 1px;
+  padding: 1px;
   box-sizing: border-box;
 }
 
 body {
   margin: auto;
   width: 900px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    justify-items: stretch;
 }
 
 header {
@@ -18,5 +24,3 @@ footer {
   display: flex;
   justify-content: center;
 }
-
-
