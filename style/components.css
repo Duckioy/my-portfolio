@@ -5,12 +5,17 @@
 
 body {
     margin: auto;
+    width: 80%;
+}
+
+main {
+    margin: auto;
     width: 900px;
 }
 
 nav {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     margin-top:5px;
 }
 
