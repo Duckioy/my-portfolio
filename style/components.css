@@ -16,7 +16,10 @@ main {
 nav {
     display: flex;
     justify-content: space-between;
-    margin-top:5px;
+}
+
+#logo {
+    margin-top: -24px;
 }
 
 .button {
